@@ -53,12 +53,12 @@ Each department is segmented into its own VLAN and subnet.
 
 ## 🌐 VLAN & IP Plan
 
-| Department       | VLAN ID | Subnet          |
-| ---------------- | ------- | --------------- |
-| Sales            | 10      | 192.168.10.0/24 |
-| Marketing        | 20      | 192.168.20.0/24 |
-| HR               | 30      | 192.168.30.0/24 |
-| Customer Service | 40      | 192.168.40.0/24 |
+| Department       | VLAN ID | Subnet                            |
+| ---------------- | ------- | --------------------------------- |
+| Sales            | 10,20   | 192.168.10.0/27 , 192.168.20.0/27 |
+| Marketing        | 30,40   | 192.168.30.0/27 , 192.168.40.0/27 |
+| HR               | 50,60   | 192.168.50.0/27 , 192.168.60.0/27 |
+| Customer Service | 70,80   | 192.168.70.0/27 , 192.168.80.0/27 |
 
 ---
 
@@ -70,7 +70,7 @@ Each department is segmented into its own VLAN and subnet.
 
 ---
 
-## 🔗 Key Configurations
+## 🔗 Configuration Proof
 
 ### VLAN Configuration
 
@@ -124,8 +124,11 @@ A full step-by-step implementation is available here:
 ## 📂 Project Structure
 
 * `/configs` → Device configurations
-* `/screenshots` → CLI outputs & topology
 * `/docs` → Supporting documentation
+* `/screenshots` → CLI outputs
+* README.md → Project overview
+* project.pkt → My project on packet tracer
+* topology.png → Topology image 
 
 ---
 
