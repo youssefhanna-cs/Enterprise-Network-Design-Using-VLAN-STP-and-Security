@@ -123,13 +123,14 @@ A full step-by-step implementation is available here:
 ## 📂 Project Structure
 
 ```
-📦 enterprise-network-design
+📦 Enterprise-Network-Design-Using-VLAN-STP-and-Security
  ┣ 📁 configs/       → Device configurations (switch & router CLI)
  ┣ 📁 screenshots/   → CLI outputs & topology diagrams
  ┣ 📁 docs/          → Supporting documentation & design notes
  ┣ 📄 README.md      → Project overview
  ┣ 🔵 project.pkt    → Packet Tracer project file
  ┗ 🖼️ topology.png   → Network topology diagram
+
 ```
 
 ## 📚 Key Learnings
