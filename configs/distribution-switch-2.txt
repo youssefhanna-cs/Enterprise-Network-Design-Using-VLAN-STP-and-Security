@@ -1,0 +1,11 @@
+en
+conf t
+
+int range fa0/1-3
+switchport mode trunk
+
+spanning-tree mode rapid-pvst
+
+vtp mode client
+vtp domain modern.com
+vtp password 1234

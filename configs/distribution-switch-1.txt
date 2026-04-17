@@ -1,0 +1,19 @@
+en
+conf t
+
+int range fa0/1-4
+switchport mode trunk
+end
+
+conf t
+spanning-tree vlan 1 root secondary
+
+spanning-tree mode rapid-pvst
+
+vtp mode client
+vtp domain modern.com
+vtp password 1234
+
+int range fa0/3-4
+switchport mode trunk
+channel-group 2 mode active

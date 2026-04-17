@@ -1,0 +1,39 @@
+en
+conf t
+
+vlan 30
+name marketing
+int range fa0/2-13
+switchport mode access
+switchport access vlan 30
+ex
+
+vlan 40
+name marketing1
+int range fa0/14-24
+switchport mode access
+switchport access vlan 40
+do sh vlan
+ex
+
+do sh vlan
+
+
+int f0/1
+switchport mode trunk
+ex
+
+spanning-tree mode rapid-pvst
+
+int range fa0/2-24
+switchport mode access
+spanning-tree portfast
+spanning-tree bpduguard enable
+switchport port-security
+switchport port-security mac-address sticky
+switchport port-security violation shutdown
+ex
+
+vtp mode client
+vtp domain modern.com
+vtp password 1234
