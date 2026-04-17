@@ -121,15 +121,13 @@ A full step-by-step implementation is available here:
 
 ---
 
-## 📂 Project Structure
-
-* `/configs` → Device configurations
-* `/docs` → Supporting documentation
-* `/screenshots` → CLI outputs
-* README.md → Project overview
-* project.pkt → My project on packet tracer
-* topology.png → Topology image 
-
+📦 enterprise-network-design
+ ┣ 📁 configs/       → Device configurations (switch & router CLI)
+ ┣ 📁 screenshots/   → CLI outputs & topology diagrams
+ ┣ 📁 docs/          → Supporting documentation & design notes
+ ┣ 📄 README.md      → Project overview
+ ┣ 🔵 project.pkt    → Packet Tracer project file
+ ┗ 🖼️ topology.png   → Network topology diagram
 ---
 
 ## 📚 Key Learnings
