@@ -47,7 +47,7 @@ Each department is segmented into its own VLAN and subnet.
 
 ## 🖼️ Network Topology
 
-![Topology](screenshots/topology.png)
+![Topology](topology.png)
 
 ---
 
@@ -145,9 +145,12 @@ A full step-by-step implementation is available here:
 * Integrate firewall and advanced security controls
 
 ---
+
 ## Project Timeline
 - Started: Apr 2025
 - Completed: Apr 2025
+
+---
 
 ## 👨‍💻 Author
 
