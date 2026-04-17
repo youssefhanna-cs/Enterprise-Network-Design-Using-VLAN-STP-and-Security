@@ -130,8 +130,8 @@ A full step-by-step implementation is available here:
  ┣ 📄 README.md      → Project overview
  ┣ 🔵 project.pkt    → Packet Tracer project file
  ┗ 🖼️ topology.png   → Network topology diagram
-
 ```
+---
 
 ## 📚 Key Learnings
 
