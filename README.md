@@ -120,6 +120,7 @@ A full step-by-step implementation is available here:
 * Assigned primary and secondary root bridges
 
 ---
+## 📂 Project Structure
 
 📦 enterprise-network-design
  ┣ 📁 configs/       → Device configurations (switch & router CLI)
