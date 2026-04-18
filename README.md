@@ -160,7 +160,7 @@ A full step-by-step implementation is available here:
 
 > Developed as part of **Computer Network coursework** — simulating a real-world multi-branch WAN infrastructure using Cisco Packet Tracer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/youssef-hanna-29759433a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/youssef-hanna-29759433a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/youssefhanna-cs)
 
 ---
