@@ -158,4 +158,11 @@ A full step-by-step implementation is available here:
 
 ## 👨‍💻 Author
 
-Developed as part of Computer Networks coursework and enhanced as a professional portfolio project.
+> Developed as part of **Computer Network coursework** — simulating a real-world multi-branch WAN infrastructure using Cisco Packet Tracer.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/youssef-hanna-29759433a)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/youssefhanna-cs)
+
+---
+
+*⭐ If you found this project useful, consider giving it a star!*
